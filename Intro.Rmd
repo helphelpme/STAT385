@@ -1,0 +1,42 @@
+---
+title: "INTRO"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Markdown Tasks To Do (in class or in your own time)
+1. Create a list of the courses you are registered for this semester.
+  *ECE374
+  *STAT410
+  *STAT420
+  *STAT440
+  *STAT385
+  
+2. Make a table that displays your weekly course schedule.
+
+|  |  **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
+  | ---- | ---- | ---- | ---- |
+  | **Efficiency** | | The code and document is written with sufficient logical thought about the tasks with an average number of unnecessary or unnecessarily verbose lines and is written in an averagely brute force way. | The code and document is written with lots of logical thought about the tasks with few unnecessary or unnecessarily verbose lines and is written in a least brute force way. |
+  
+  
+3. Write a short paragraph (not a list) that answers the following questions about yourself:
+  - What's your preferred name (with pronunciation guide)?
+  - What are your pronouns?
+  - Where are you from? A big city, small town, or something in between?
+  - Why did you enroll in this course?
+  - What's your classification (freshman, sophomore, etc.)?
+
+4. Add an image of yourself that appears just below your paragraph. If you do not have an image of yourself that is readily available, add another image of your choice that is stored on your computer.
+
+<!--
+![](/Users/dje13/UIUC/Courses/STAT385-programming/stat385resources/daniel.png)
+-->
+
+
+
+5. If you have a Linked-In, add that link below your image. If you do not have a Linked-In page, add a different link below the image that you added in the previous part.
+
+6. Now knit the document and show it to your neighbor. Use it to become acquainted with one another.
+
